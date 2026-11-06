@@ -44,4 +44,4 @@ Links point to third-party sites. Application dates and eligibility change every
 
 ---
 
-Made with 💛 by **Light Up Tech**
+Made with 💛 by **Light Up Tech** [Light Up Tech](https://lightuptech.net)
