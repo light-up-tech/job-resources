@@ -26,7 +26,6 @@ Programs that offer training, mentorship, scholarships, and direct pipelines int
 | [AnitaB.org / Grace Hopper Celebration](https://anitab.org/) | Women in computing; huge career fair at GHC |
 | [NSBE](https://www.nsbe.org/) | National Society of Black Engineers |
 | [SHPE](https://shpe.org/) | Society of Hispanic Professional Engineers |
-| [Lesbians Who Tech](https://lesbianswhotech.org/) | LGBTQ+ community in tech |
 | [Out in Tech](https://outintech.com/) | LGBTQ+ tech community & mentorship |
 
 ## 💡 Tips
