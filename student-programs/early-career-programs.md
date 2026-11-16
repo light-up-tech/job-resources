@@ -23,7 +23,7 @@ These programs are designed for students **early in college** — often no prior
 | [CodePath – Early Internship Programs](https://books.codepath.org/student-handbook/internship-and-job-search-strategy/early-internship-programs) | Curated guide to 1st/2nd-year programs |
 | [Simplify – Programs for Underclassmen](https://simplify.jobs/blog/25-software-engineering-programs-for-underclassmen) | Blog list of SWE programs for underclassmen |
 | [SimplifyJobs / Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships) | Look for roles marked "Freshman" or "Sophomore" |
-| [program help to search for a job ]([https://github.com/SimplifyJobs/Summer2027-Internships](https://usa.generation.org/jobsprint/?utm_source=Insider&utm_campaign=IS_EM_2C_US___v6_JS1&urlRecruitmentChannel=IS_EM_2C_US___v6_JS1&insEmail=1&insNltCmpId=1069&insNltSldt=10080&insPnName=generationusa&insTrackId=4&ins_iid=ZTY1MDgxNWMtMjkwNS00ZGM0LThjZTgtMTM4MzRmNTgzMTRl&isIns=1&isInsNltCmp=1)) | Generation JobSprint |
+| [Generation USA – JobSprint](https://usa.generation.org/jobsprint/) | Free job-search program from Generation, a nonprofit. Check the page for upcoming dates |
 
 ## 💡 Tips
 
